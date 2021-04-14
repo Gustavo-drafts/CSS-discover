@@ -23,6 +23,19 @@ Pseudo-classes começam com 2 pontos seguido do nome da pseudo class `:pseudo-cl
 * :required
 
 
+# Pseudo-elements
+
+Com pseudo-elements nós podemos adicionar elementos HTML pelo próprio CSS
+
+`::pseudo-element-name`
+
+## Exemplos
+
+* ::before
+* ::after
+* ::first-line
+
+
 
 ## Referência
 
